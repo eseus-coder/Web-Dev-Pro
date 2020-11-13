@@ -24,13 +24,16 @@ These section headers will be used to reference location of destination for an e
 #### Languages/Technologies
 
 - HTML5
-- CSS3
+- XML
 - Javascript
 - API
 - Google-Analytics
 - Vimeo
-- LSTM-Files
+- LST-Files
 - Configuration-Files
+- IML
+- CSS3
+- SVG
 
 (This section will be updated with time.)
 
