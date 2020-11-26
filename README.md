@@ -54,9 +54,8 @@ These section headers will be used to reference location of destination for an e
 ```
 #### Site Demo
 
-```markdown
-    [Vajilla-Zumio](https://vajilla-zumio.netlify.app/personalizar.html)
-```
+  >[Vajilla-Zumio](https://vajilla-zumio.netlify.app/personalizar.html)
+
 
 [Back To The Top](#vajilla-zumio)
 
